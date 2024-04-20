@@ -1,0 +1,29 @@
+:root {
+	--text-color: #000;
+	--bg-color: #fff;
+	--bright-accent-color: #EF5544;
+	--font-regular: 'SourceSerifPro-Regular';
+	--font-semibold: 'SourceSerifPro-Semibold';
+	--font-black: 'SourceSerifPro-Black';
+}
+
+@font-face {
+	font-family: 'SourceSerifPro-Regular';
+	src: url('../fonts/SourceSerifPro-Regular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'SourceSerifPro-Black';
+	src: url('../fonts/SourceSerifPro-Black.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'SourceSerifPro-Semibold';
+	src: url('../fonts/SourceSerifPro-Semibold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
